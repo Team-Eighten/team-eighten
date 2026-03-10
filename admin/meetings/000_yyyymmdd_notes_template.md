@@ -6,6 +6,7 @@
   - [ ] Arlene Garcia
   - [ ] Ashley Vo
   - [ ] Dorje Pradhan
+  - [ ] Patrick Thant
   - [ ] Kiet Dang
 - **Purpose** Blah blah
 
@@ -19,12 +20,13 @@
 
 ## To-Do
 ### Assignments
-| Person    | Task | 
-| --------- | ---- |
-| Arlene G. |  |
-| Ashley V. |  |
-| Dorje P.  |  |
-| Kiet D.   |  |
+| Person     | Task | 
+| ---------  | ---- |
+| Arlene G.  |  |
+| Ashley V.  |  |
+| Dorje P.   |  |
+| Patrick T. |  |
+| Kiet D.    |  |
 
 ### Questions
 
