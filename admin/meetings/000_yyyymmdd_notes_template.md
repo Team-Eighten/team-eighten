@@ -8,7 +8,10 @@
   - [ ] Dorje Pradhan
   - [ ] Patrick Thant
   - [ ] Kiet Dang
-- **Purpose** Blah blah
+- **Purpose** the what and blah blah
+
+## Agenda
+(To fill with discussion points)
 
 ## Notes
 
