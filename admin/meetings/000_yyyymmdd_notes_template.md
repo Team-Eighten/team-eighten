@@ -12,6 +12,10 @@
 
 ## Agenda
 (To fill with discussion points)
+- [ ] Topic 1
+  - [ ] Subtopic 1
+- [ ] Topic 2
+- [ ] ...
 
 ## Notes
 
@@ -23,13 +27,20 @@
 
 ## To-Do
 ### Assignments
-| Person     | Task | 
-| ---------  | ---- |
-| Arlene G.  |  |
-| Ashley V.  |  |
-| Dorje P.   |  |
-| Patrick T. |  |
-| Kiet D.    |  |
+#### Teamwide Tasks
+| Task | Due  |
+| ---- | ---- |
+| | |
+
+#### Individual Tasks
+| Person     | Task | Due  |
+| ---------  | ---- | ---- |
+| Arlene G.  |  | | 
+| Ashley V.  |  | | 
+| Dorje P.   |  | | 
+| Patrick T. |  | | 
+| Kiara S.   |  | | 
+| Kiet D.    |  | | 
 
 ### Questions
 
