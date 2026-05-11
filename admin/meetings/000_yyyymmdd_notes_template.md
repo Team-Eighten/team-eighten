@@ -7,6 +7,7 @@
   - [ ] Ashley Vo
   - [ ] Dorje Pradhan
   - [ ] Patrick Thant
+  - [ ] Kiara Singh (tentative)
   - [ ] Kiet Dang
 - **Purpose** the what and blah blah
 
